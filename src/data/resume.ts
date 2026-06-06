@@ -107,7 +107,6 @@ export const experience = [
       "Postman",
       "IntelliJ IDEA",
       "STS",
-      "VS Code",
       "SonarQube",
     ],
   },
